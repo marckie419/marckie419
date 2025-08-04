@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Computer Engineering student
+- 🎓 Computer Engineering Graduate
 - 🌐 I love building web apps and creating user-friendly interfaces
 - 🧠 Currently working on: `TriviaLock` and `AniLink` 🌾
 - 📍 Based in Nueva Ecija, PH
@@ -17,13 +17,6 @@
 ### 🧰 Tech I Use
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,tailwind,figma,git" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marckie419&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
