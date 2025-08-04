@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Marc 👨‍💻</h1>
 <p align="center">
-  Passionate Web Developer | API Integrator | UI/UX Enthusiast  
+  Computer Engineer
 </p>
 
 ---
